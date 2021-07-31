@@ -1,0 +1,6 @@
+{
+  "rust.rust-analyzer": {
+    "releaseTag": "nightly",
+    "path": null
+  }
+}
