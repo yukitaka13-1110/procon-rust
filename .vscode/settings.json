@@ -1,6 +1,50 @@
 {
-  "rust.rust-analyzer": {
+  "rust-analyzer": {
     "releaseTag": "nightly",
-    "path": null
+    "path": null,
+    "files": {
+      "excludeDirs": [
+        "abc006",
+        "abc007",
+        "abc019",
+        "abc023",
+        "abc035",
+        "abc036",
+        "abc038",
+        "abc049",
+        "abc054",
+        "abc075",
+        "abc077",
+        "abc080",
+        "abc084",
+        "abc106",
+        "abc109",
+        "abc112",
+        "abc113",
+        "abc118",
+        "abc120",
+        "abc126",
+        "abc127",
+        "abc128",
+        "abc129",
+        "abc145",
+        "abc147",
+        "abc148",
+        "abc149",
+        "abc159",
+        "abc150",
+        "abc214",
+        "abc299",
+        "abc300",
+        "abc301",
+        "agc024",
+        "agc039",
+        "atc001",
+        "arc017",
+        "arc026",
+        "arc054",
+        "arc160"
+      ]
+    }
   }
 }
